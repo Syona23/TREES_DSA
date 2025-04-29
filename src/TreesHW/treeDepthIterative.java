@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TreeDepthIterative {
+public class treeDepthIterative {
 
     static class Node {
         int val;
@@ -44,4 +44,5 @@ public class TreeDepthIterative {
         System.out.println("Tree height (iterative): " + treeHeight);
     }
 }
+
 

@@ -2,7 +2,7 @@ package TREES;
 
 import java.util.*;
 
-public class NodeSearch {
+public class nodeSearch {
 
     static class Node {
         int value;

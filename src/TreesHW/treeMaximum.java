@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TreeMaximum {
+public class treeMaximum {
 
     static class Node {
         int val;
@@ -33,3 +33,4 @@ public class TreeMaximum {
         System.out.println("Maximum value in the tree: " + max);
     }
 }
+

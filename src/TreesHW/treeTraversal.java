@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BinaryTreeTraversal {
+public class treeTraversal {
 
     static class Node {
         int val;
@@ -67,3 +67,4 @@ public class BinaryTreeTraversal {
         traverseLevelOrder(root);
     }
 }
+

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LeafCounter {
+public class leafCounter {
 
     static class Node {
         int val;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TreeDepth {
+public class treeDepth {
 
     static class Node {
         int val;
