@@ -1,3 +1,5 @@
+package TREES;
+
 import java.util.*;
 
 public class NodeSearch {
